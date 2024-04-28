@@ -7,7 +7,7 @@ name = "algorithm"
 version = "0.1.0"
 
 [[package]]
-name = "basic_sort"
+name = "bubble_sort"
 version = "0.1.0"
 
 [[package]]
@@ -16,4 +16,8 @@ version = "0.1.0"
 
 [[package]]
 name = "recursive"
+version = "0.1.0"
+
+[[package]]
+name = "selection_sort"
 version = "0.1.0"

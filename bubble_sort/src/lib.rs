@@ -13,6 +13,7 @@ fn bubble_sort<T: Ord + std::fmt::Debug>(arr: &mut [T]) {
     }
 }
 
+
 #[cfg(test)]
 mod tests {
     use std::vec;

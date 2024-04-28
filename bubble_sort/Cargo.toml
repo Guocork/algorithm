@@ -1,5 +1,5 @@
 [package]
-name = "basic_sort"
+name = "bubble_sort"
 version = "0.1.0"
 edition = "2021"
 
