@@ -1,6 +1,5 @@
-workspace = { members = [ "bubble_sort","ex", "insertion_sort", "recursive", "selection_sort", "shell_sort"] }
 [package]
-name = "algorithm"
+name = "shell_sort"
 version = "0.1.0"
 edition = "2021"
 
