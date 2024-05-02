@@ -23,6 +23,10 @@ name = "merge_sort"
 version = "0.1.0"
 
 [[package]]
+name = "quick_sort"
+version = "0.1.0"
+
+[[package]]
 name = "recursive"
 version = "0.1.0"
 
