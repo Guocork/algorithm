@@ -26,7 +26,7 @@ impl ToString for MachineNode {
 struct Ring<T: Clone + Debug + ToString> {
     // 每台主机的虚拟节点数
     machine_virtual_node_num: usize,
-    // 用于保存环上的数据
+    // 用于记录虚拟节点与真实node的对应关系
     datas: BTreeMap<u64, T>,
 }
 
